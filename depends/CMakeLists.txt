@@ -17,5 +17,5 @@ add_library(nlohmann_json INTERFACE)
 target_include_directories(
     nlohmann_json
     INTERFACE
-    ${DEPENDS_DIR}/json/single_include/
+    ${DEPENDS_DIR}/json-cp/single_include/
 )

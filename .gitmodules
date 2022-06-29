@@ -1,9 +1,6 @@
 [submodule "depends/SHA3IUF"]
 	path = depends/SHA3IUF
 	url = https://github.com/harryr/SHA3IUF.git
-[submodule "depends/json"]
-	path = depends/json
-	url = https://github.com/nlohmann/json.git
 [submodule "depends/libfqfft"]
 	path = depends/libfqfft
 	url = https://github.com/CortexFoundation/libfqfft.git
